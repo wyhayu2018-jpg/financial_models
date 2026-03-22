@@ -17,6 +17,5 @@ Microsoft Excel
 ## Background
 Independent projects built to develop hands-on financial modeling skills 
 while pursuing a Bachelor's degree in Integrated Business at the University of Central Florida.
-```
 
 
