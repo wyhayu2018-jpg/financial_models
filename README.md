@@ -15,4 +15,4 @@ and supporting schedules for depreciation, working capital, and tax payable.
 Microsoft Excel
 
 ## Background
-Independent projects built to develop hands-on financial modeling skills 
+Independent projects built to develop financial modeling skills while pursuing a Bachelor's degree in Integrated Business at the University of Central Florida.
