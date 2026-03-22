@@ -1,18 +1,22 @@
 # Financial Models
 
-A collection of financial models built in Microsoft Excel covering 
-describe what your models do — DCF, budgeting, forecasting, etc.
+A collection of independent financial models built in Microsoft Excel, 
+covering DCF valuation and integrated 3-statement forecasting for 
+publicly traded companies.
 
-## Models Included
-- Model name,  — one sentence on what it does
-- same thing — one sentence on what it does
+- **DCF Valuation Model – Starbucks Corporation** — Full 5-year DCF model 
+with WACC calculation, sensitivity analysis, and an intrinsic valuation 
+8.8% below market price supporting a hold recommendation.
+- **3-Statement Operating Model – Nike, Inc.** — Integrated income 
+statement, balance sheet, and cash flow model with a 5-year forecast 
+and supporting schedules for depreciation, working capital, and tax payable.
 
 ## Tools Used
 Microsoft Excel
 
 ## Background
-Built as part of coursework and independent study while pursuing 
-a Bachelor's degree in Finance at 
+Independent projects built to develop hands-on financial modeling skills 
+while pursuing a Bachelor's degree in Integrated Business at the University of Central Florida.
 ```
 
 
